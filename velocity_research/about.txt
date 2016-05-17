@@ -1,0 +1,2 @@
+this is for straight vector and velocity in a linear pattern research in order
+to understand the physics of the whole system on a smaller level
